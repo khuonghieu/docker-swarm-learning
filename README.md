@@ -35,7 +35,7 @@ Tìm hiểu thêm về iptables command [ở đây](https://wiki.matbao.net/ipta
 
 Kiến trúc triển khai sẽ bao gồm 01 manager node và 02 worker node:
 
-![Ti%CC%80m%20hie%CC%82%CC%89u%20ve%CC%82%CC%80%20Network%20trong%20Docker%20Swarm%2015828eaf877f48e6b844618efa7c5be1/docker-swarm-architecture.png](Ti%CC%80m%20hie%CC%82%CC%89u%20ve%CC%82%CC%80%20Network%20trong%20Docker%20Swarm%2015828eaf877f48e6b844618efa7c5be1/docker-swarm-architecture.png)
+![images/docker-swarm-architecture.png](images/docker-swarm-architecture.png)
 
 1. SSH vào `manager` node và chạy command dưới đây để khởi tạo swarm cluster:
 
